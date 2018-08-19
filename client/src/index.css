@@ -1,0 +1,23 @@
+::selection {
+  background: #333333;
+  color: #ffd740;
+}
+
+input:focus + label {
+  color: #333333 !important;
+}
+
+input:focus {
+  border-bottom: 1px solid #333333 !important;
+  box-shadow: 0 1px 0 0 #333333 !important;
+}
+
+.container {
+  margin-top: 3em !important;
+}
+
+@media screen and (max-width: 992px) {
+  .container {
+    margin-top: 0 !important;
+  }
+}
