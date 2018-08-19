@@ -10,7 +10,7 @@ export const NavBar = styled.nav.attrs({
 export const Logo = styled(Link).attrs({
   className: 'left'
 })`
-  margin: 0.6em 0 0 0.6em;
+  margin: 1em 0 0 1em;
   color: #424242;
 `;
 
