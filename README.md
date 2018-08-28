@@ -7,4 +7,4 @@
 * Authentication - passport.js
 * Database - mLab and mongoose
 
-> [Keepr] (https://keepr-note-app.herokuapp.com)
+> [Keepr](https://keepr-note-app.herokuapp.com)
